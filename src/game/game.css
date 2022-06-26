@@ -1,0 +1,22 @@
+.game {
+    display: flex;
+    margin-top: 30px;
+}
+
+.game-actions {
+    margin-left: 30px;
+}
+
+.game-stats {
+    margin-left: 30px;
+    width: 100px;
+}
+
+.stats-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bold {
+    font-weight: bold;
+}
